@@ -39,4 +39,5 @@ int main(){
         cout<<ans[i];
         if(i<N-1)cout<<' ';
     }
+    cout<<endl;
 }
